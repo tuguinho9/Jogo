@@ -1,0 +1,33 @@
+body {
+    background-color: lightseagreen;
+}
+#login {
+    background-color: darkgray;
+    border-radius: 15px;
+    float: none;
+    padding: 30px;
+}
+#login2 {
+    background-color: darkgray;
+    border-radius: 15px;
+    float: none;
+    padding: 30px;
+}
+#login1 {
+    width: 200px;
+    font-size: 30px;
+}
+#game {
+    background-color: darkturquoise;
+}
+#output {
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #eda06b;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#player1_name, #player2_name {
+    display: inline-block;
+}
